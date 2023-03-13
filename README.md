@@ -1,7 +1,7 @@
 # Algorithms 2 Projects
 
 ## Overview
-Within this repository, you will find the 5 projects I have completed for CS 1501: Algorithms and Data Structures 2. I believe these projects are representive of my ability to design solutions to problems in Java. Below is a brief description of each project. For more details, see the individual READMEs for each project.
+Within this repository, you will find the 5 projects I have completed for CS 1501: Algorithms and Data Structures 2. Below is a brief description of each project. For more details, see the individual READMEs for each project.
 
 ## Project 1: Binary Search Tree
 Project 1 required me to implement a binary search tree using a given node class that could add, remove, and check for elements, as well as determine its height and whether or not it is balanced, perform both pre-order and in-order traversals for serialization, and reverse itself.
